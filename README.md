@@ -21,8 +21,8 @@
   
 ## Como Executar o Projeto
 1. Clone o repositório para sua máquina local.
-2. Instale as dependências listadas no arquivo requirements.txt.
-3. Crie um arquivo .env com suas credenciais de banco de dados.
+2. Instale as dependências _**pip install mysql-connector-python**_ e _**pip install python-dotenv**_ no terminal.
+3. Crie um arquivo .env com suas credenciais de banco de dados, se necessário.
 4. Execute o script Python.
 
 ## Melhorias Futuras
